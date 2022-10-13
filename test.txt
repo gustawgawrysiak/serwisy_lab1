@@ -1,0 +1,3 @@
+to jest dokument tekstowy dla serwisy lab1
+
+
